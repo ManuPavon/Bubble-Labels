@@ -55,4 +55,5 @@ You can customize the bubble design by modifying the following parameters in the
 ## Preview
 
 The included preview image shows how the bubble design transforms standard column charts into a more modern visualization.
+
 ![imagen](https://github.com/user-attachments/assets/e5adf078-4e30-4b6e-b745-7c29c72e2753)
